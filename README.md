@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2262-solving-questions-with-brainpower](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
+| [3801-count-beautiful-numbers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3801-count-beautiful-numbers) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Prefix Sum
 |  |
