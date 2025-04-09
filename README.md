@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 ## Dynamic Programming
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 ## Tree
 |  |
 | ------- |
