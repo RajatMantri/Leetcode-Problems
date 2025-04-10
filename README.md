@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [2262-solving-questions-with-brainpower](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
 | [3801-count-beautiful-numbers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3801-count-beautiful-numbers) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Hash Table
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3243-count-the-number-of-powerful-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Backtracking
 |  |
 | ------- |
