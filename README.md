@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2998-count-symmetric-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3548-find-the-count-of-good-integers) |
+| [3820-number-of-unique-xor-triplets-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3820-number-of-unique-xor-triplets-ii) |
 ## Recursion
 |  |
 | ------- |
