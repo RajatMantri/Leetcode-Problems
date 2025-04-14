@@ -9,7 +9,7 @@ public:
             return;
         }
         for (int i = 0; i <= 9; i++) {
-            if (tmp.empty() && i == 0 && n != 1) continue;
+            if (tmp.empty() && i == 0) continue;
             tmp.push_back(i);
             generatePalindromes(n, tmp);
             tmp.pop_back();
