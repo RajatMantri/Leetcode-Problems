@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## Hash Table
