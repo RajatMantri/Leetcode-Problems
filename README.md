@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2262-solving-questions-with-brainpower](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2681-put-marbles-in-bags](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -155,6 +156,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
