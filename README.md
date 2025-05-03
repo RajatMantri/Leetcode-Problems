@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2249-count-the-hidden-sequences](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2681-put-marbles-in-bags](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 ## Sorting
 |  |
