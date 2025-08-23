@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [2681-put-marbles-in-bags](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
