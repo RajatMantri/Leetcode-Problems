@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
+| [0283-move-zeroes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
 ## String
