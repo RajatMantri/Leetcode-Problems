@@ -28,7 +28,7 @@ public:
         while(start<=end){
             int num=s[end--]-'0';
             ans+=num*pow(10,p++);
-            if(ans>INT_MAX) break;
+            //if(ans>INT_MAX) break;
         }
 
         if(neg) ans*=-1;
