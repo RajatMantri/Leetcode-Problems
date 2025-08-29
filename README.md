@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0015-3sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
