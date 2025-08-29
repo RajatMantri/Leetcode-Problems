@@ -4,7 +4,6 @@ public:
         string ans="";
 
         int j=s.length()-1;
-        while(j>=0&&s[j]==' ') j--;
 
         while(j>=0){
             stack<char> tmp;
