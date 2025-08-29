@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0038-count-and-say](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3808-longest-palindrome-after-substring-concatenation-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3808-longest-palindrome-after-substring-concatenation-ii) |
@@ -218,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1186-building-h2o](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1186-building-h2o) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
