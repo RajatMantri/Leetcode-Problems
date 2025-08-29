@@ -9,8 +9,7 @@ class Solution {
         int count=0;
         for(int i=0;i<piles.size();i++){
             int element=piles[i];
-            count+=element/mid+1;
-            if(element%mid==0) count--;
+            count+=(element+mid-1)/mid;
             if(count>h) return false;
         }
         return true;
