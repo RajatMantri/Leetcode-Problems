@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [2050-count-good-numbers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
