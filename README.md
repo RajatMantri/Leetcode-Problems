@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0015-3sum) |
+| [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -246,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0328-odd-even-linked-list) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
