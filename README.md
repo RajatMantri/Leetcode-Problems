@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0155-min-stack) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
@@ -254,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
