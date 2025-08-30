@@ -1,8 +1,12 @@
 class Solution {
 public:
     void f(int rem,int target,vector<vector<int>> &ans,vector<int> &temp,int num){
+        if(rem==0&&target==0){
+            ans.push_back(temp);
+            return;
+        }
         if(num>=10){
-            if(rem==0&&target==0) ans.push_back(temp);
+            //if(rem==0&&target==0) ans.push_back(temp);
             return;
         }
 
