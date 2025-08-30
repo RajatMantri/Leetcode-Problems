@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0015-3sum) |
 | [0039-combination-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0051-n-queens](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
