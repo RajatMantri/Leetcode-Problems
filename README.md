@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0162-find-peak-element) |
+| [0216-combination-sum-iii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0216-combination-sum-iii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
