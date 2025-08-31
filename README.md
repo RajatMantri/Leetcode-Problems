@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -77,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0015-3sum) |
 | [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
+| [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [2681-put-marbles-in-bags](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3819-count-covered-buildings](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3819-count-covered-buildings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [2681-put-marbles-in-bags](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 ## Two Pointers
 |  |
@@ -116,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -242,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Counting Sort
 |  |
