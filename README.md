@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0051-n-queens) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0216-combination-sum-iii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 ## Design
 |  |
 | ------- |
