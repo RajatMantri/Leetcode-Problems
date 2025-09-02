@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0051-n-queens) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0162-find-peak-element](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0216-combination-sum-iii) |
@@ -159,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0037-sudoku-solver) |
+| [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0542-01-matrix) |
 ## Design
 |  |
@@ -310,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
+## Union Find
+|  |
+| ------- |
+| [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 <!---LeetCode Topics End-->
