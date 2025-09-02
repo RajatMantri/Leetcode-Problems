@@ -1,44 +1,41 @@
 class Solution {
 public:
     bool parseBoolExpr(string s) {
-        stack<char> operand;//(t,f,'(')
-        stack<char> operat;
+        stack<char> st;
 
-        for(auto&i:s){
-            if(i==')'){
-                char ch=operat.top();
-                operat.pop();
-                
-                bool ans=1;
-                if(operand.top()=='f') ans=0;
-                
-                operand.pop();
-                
-                if(ch=='|'){
-                    while(operand.top()!='('){
-                        if(operand.top()=='f') ans=ans|0;
-                        else if(operand.top()=='t')ans=ans|1;
-                        operand.pop();
-                    }
+        for (char c : s) {
+            if (c == ',') continue; // commas are useless
+            
+            if (c != ')') {
+                // push everything except ')'
+                st.push(c);
+            } else {
+                // we found a ')', so evaluate subexpression
+                vector<char> vals;
+                while (!st.empty() && st.top() != '(') {
+                    vals.push_back(st.top());
+                    st.pop();
                 }
-                else if(ch=='&'){
-                    while(operand.top()!='('){
-                        if(operand.top()=='f') ans=ans&0;
-                        else if(operand.top()=='t')ans=ans&1;
-                        operand.pop();
-                    }
+
+                st.pop(); // remove '('
+                char op = st.top(); // operator before '('
+                st.pop();
+
+                bool ans;
+                if (op == '!') {
+                    ans = (vals.back() == 'f'); // only one value
+                } else if (op == '&') {
+                    ans = true;
+                    for (char v : vals) ans &= (v == 't');
+                } else { // op == '|'
+                    ans = false;
+                    for (char v : vals) ans |= (v == 't');
                 }
-                else ans=!ans;
-                
-                operand.pop();
-                
-                if(ans) operand.push('t');
-                else operand.push('f');
+
+                st.push(ans ? 't' : 'f');
             }
-            else if(i=='!'||i=='&'||i=='|') operat.push(i);
-            else operand.push(i);
         }
 
-        return operand.top()=='t';
+        return st.top() == 't';
     }
 };
