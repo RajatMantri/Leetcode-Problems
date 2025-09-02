@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2249-count-the-hidden-sequences](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2249-count-the-hidden-sequences) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2262-solving-questions-with-brainpower](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2681-put-marbles-in-bags](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3819-count-covered-buildings](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3819-count-covered-buildings) |
