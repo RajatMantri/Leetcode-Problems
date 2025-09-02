@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2262-solving-questions-with-brainpower](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3765-minimum-cost-to-divide-array-into-subarrays](https://github.com/RajatMantri/Leetcode-Problems/tree/master/3765-minimum-cost-to-divide-array-into-subarrays) |
@@ -224,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2280-count-good-triplets-in-an-array](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 ## Merge Sort
 |  |
