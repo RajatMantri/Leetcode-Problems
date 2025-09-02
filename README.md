@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1197-parsing-a-boolean-expression](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
+| [1197-parsing-a-boolean-expression](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2050-count-good-numbers) |
 ## Binary Search
 |  |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0155-min-stack) |
+| [1197-parsing-a-boolean-expression](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Linked List
 |  |
