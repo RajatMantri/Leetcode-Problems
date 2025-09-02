@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0045-jump-game-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0132-palindrome-partitioning-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0198-house-robber) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0044-wildcard-matching) |
+| [0132-palindrome-partitioning-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1197-parsing-a-boolean-expression](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
