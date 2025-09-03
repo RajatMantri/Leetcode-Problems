@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -323,11 +325,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0744-network-delay-time](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0744-network-delay-time) |
+| [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Topological Sort
 |  |
 | ------- |
