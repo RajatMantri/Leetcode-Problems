@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0721-accounts-merge](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0907-koko-eating-bananas](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0907-koko-eating-bananas) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0274-h-index) |
 | [0368-largest-divisible-subset](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0368-largest-divisible-subset) |
 | [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2681-put-marbles-in-bags](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/RajatMantri/Leetcode-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0132-palindrome-partitioning-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0132-palindrome-partitioning-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0721-accounts-merge](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [1197-parsing-a-boolean-expression](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1197-parsing-a-boolean-expression) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0037-sudoku-solver) |
 | [0424-longest-repeating-character-replacement](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0621-task-scheduler](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0797-rabbits-in-forest](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0797-rabbits-in-forest) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -174,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
 | [0210-course-schedule-ii](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0210-course-schedule-ii) |
 | [0542-01-matrix](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0744-network-delay-time) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/RajatMantri/Leetcode-Problems/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -325,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/RajatMantri/Leetcode-Problems/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 ## Graph
 |  |
